@@ -32,6 +32,8 @@ Client → API Gateway → Lambda → DynamoDB
 - Partition Key: `id.`
 - Capacity Mode: On-demand
 
+![DynamoDB Table](docs/dynamodb-table.png.jpeg)
+
 ---
 
 ##  IAM Role
