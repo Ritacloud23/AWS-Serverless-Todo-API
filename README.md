@@ -1,10 +1,10 @@
-# 🚀 AWS Serverless Todo API
+#  AWS Serverless Todo API
 
 Production-ready Serverless REST API built using AWS managed services.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project implements a fully serverless backend using:
 
