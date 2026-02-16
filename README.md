@@ -76,7 +76,7 @@ Example Response:
 ]
 ```
 
-![Live Endpoint](docs/live-endpoint.png.jpeg)
+![Live Endpoint](docs/live-endpoint.jpeg)
 ---
 
 ##  Key Learnings
