@@ -42,6 +42,8 @@ Lambda execution role configured with:
 
 - AWSLambdaBasicExecutionRole
 - AmazonDynamoDBFullAccess (Development)
+- 
+![IAM Role](docs/iam-role.png.jpeg)
 
 ---
 
@@ -52,6 +54,8 @@ Supports:
 - GET /todos
 - POST /todos
 - DELETE /todos/{id}
+- 
+![Lambda Overview](docs/lambda-overview.png)
 
 ---
 
@@ -72,6 +76,7 @@ Example Response:
 ]
 ```
 
+![Live Endpoint](docs/live-endpoint.png.jpeg)
 ---
 
 ##  Key Learnings
